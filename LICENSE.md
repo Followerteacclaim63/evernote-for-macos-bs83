@@ -1,4 +1,4 @@
-#  
+#  Enhance Evernote for macOS with secure Macro for Evernote for macOS - export to PDF and tags, the #1 macro. Includes export to PDF and tags for a smoother experience.
 
 
 
